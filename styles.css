@@ -43,13 +43,13 @@ body{
 
 .cloud2{
     position: absolute;
-    left:300px;
-    bottom:300px;
+    left: 20%;
+    bottom: 40%
 }
 .cloud1{
     position:absolute;
-    right:300px;
-    top:40px;
+    right: 20%;
+    top:10%;
 }
 .photoshop{
     height: 200px;
