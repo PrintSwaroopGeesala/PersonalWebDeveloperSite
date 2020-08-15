@@ -152,6 +152,8 @@ hr{
 
 .contact-me{
     line-height: 40px;
+    width: 50%;
+    margin: 20px auto;
 }
 .intome{
     font-size: 50%;
