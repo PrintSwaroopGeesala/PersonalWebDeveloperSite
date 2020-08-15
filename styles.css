@@ -22,6 +22,7 @@ h1{
 h3{
     font-family: 'Ubuntu', sans-serif;
     color:  #11999E;
+    font-size:1.5rem;
     
 }
 h2{
@@ -39,6 +40,7 @@ h2{
 }
 body{
     text-align: center;
+
 }
 
 .cloud2{
@@ -150,4 +152,7 @@ hr{
 
 .contact-me{
     line-height: 40px;
+}
+.intome{
+    font-size: 1.8em;
 }
